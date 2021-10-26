@@ -1,6 +1,9 @@
-## Install packages
+This is the adventure tour created with node.js.
 
-> npm install nodemon --global
+# Install packages
+
+\$ npm install nodemon --global
+
 > npm install express
 > npm install morgan
 > npm install dotenv
