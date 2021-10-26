@@ -1,7 +1,7 @@
 This is the adventure tour created with node.js. Bellow are the package needed
 
-> \$ npm install nodemon --global
-> \$ npm install express
+> \$ npm install nodemon --global\
+> \$ npm install express\
 > \$ npm install morgan
 > \$ npm install dotenv
 > \$ npm install mongoose@5
